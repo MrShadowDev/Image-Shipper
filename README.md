@@ -45,4 +45,6 @@ Start the server
 ![](https://i.imgur.com/WIV6FwO.gif)
 
 ## Contributors 💚
-![GitHub Contributors Image](https://contrib.rocks/image?repo=MrShadowDev/Image-Shipper
+<a href="https://github.com/MrShadowDev/Image-Shipper/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MrShadowDev/Image-Shipper" />
+</a>
